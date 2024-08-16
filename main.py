@@ -6,7 +6,7 @@ from modules.loader import save_data
 if __name__ == '__main__':
 
     proceed = True
-    page = 3
+    page = 3 # have you ever try with more pages ? How about 10
     new_checkpoint_data = set()
     total_movie_data = []
     current_checkpoint_data = load_checkpoint()
