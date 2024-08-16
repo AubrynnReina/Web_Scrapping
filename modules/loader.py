@@ -27,6 +27,9 @@ def save_to_parquet(data_df, filename):
     data_table = pa.Table.from_pandas(data_df)
     pq.write_table(data_table, f'./data/parquet/{filename}.parquet')
 
+    # Try this one Chanh. Don't need to import pyarrow
+    import pandas as pd
+    data_df.to_parquet(f"./data/parquet/{filename}.parquet")
 
 def save_data(data):
 
