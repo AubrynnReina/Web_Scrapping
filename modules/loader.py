@@ -28,8 +28,8 @@ def save_to_parquet(data_df, filename):
     pq.write_table(data_table, f'./data/parquet/{filename}.parquet')
 
     # Try this one Chanh. Don't need to import pyarrow
-    # import pandas as pd
-    # data_df.to_parquet(f"./data/parquet/{filename}.parquet")
+    import pandas as pd
+    data_df.to_parquet(f"./data/parquet/{filename}.parquet")
 
 def save_data(data):
 
