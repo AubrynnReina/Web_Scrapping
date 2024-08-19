@@ -8,9 +8,7 @@ def save_to_json(data, filename):
 
 def convert_to_dataframe(data):
     import pandas as pd
-    from datetime import datetime
 
-    filename = datetime.today().strftime('%Y_%m_%d')
     data_df = pd.DataFrame(data=data)
 
     return data_df
