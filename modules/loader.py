@@ -21,6 +21,9 @@ def save_to_parquet(data_df, filename):
 
     data_df.to_csv(f'./data/parquet/{filename}.parquet', index=False)
 
+    # Try this one Chanh. Don't need to import pyarrow
+    import pandas as pd
+    data_df.to_parquet(f"./data/parquet/{filename}.parquet")
 
 def save_data(data):
 
