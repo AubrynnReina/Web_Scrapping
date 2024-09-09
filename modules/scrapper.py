@@ -3,7 +3,8 @@ from bs4 import BeautifulSoup
 
 def get_movie_items(page):
 
-    url = f'https://animehay.in/phim-moi-cap-nhap/trang-{page}.html'
+    domain_name = 'animehay.biz'
+    url = f'https://{domain_name}/phim-moi-cap-nhap/trang-{page}.html'
     html_page = requests.get(url)
     soup = BeautifulSoup(html_page.content, 'html.parser')
     movie_items = soup.find_all('div', class_='movie-item')
