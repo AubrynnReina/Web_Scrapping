@@ -17,10 +17,16 @@ def save_checkpoint(checkpoint_set):
 
 def load_checkpoint() -> set[int, str]:
     
-    import pickle
-    CHECKPOINT_PATH = './data/checkpoint.pkl'
+    from pathlib import Path
 
-    with open(CHECKPOINT_PATH, 'rb') as f:
-        data = pickle.load(f)
+    CHECKPOINT_PATH = Path('./data/checkpoint.pkl')
+    if CHECKPOINT_PATH.exists():
 
-    return data
+        import pickle
+
+        with open(CHECKPOINT_PATH, 'rb') as f:
+            data = pickle.load(f)
+
+        return data
+    else:
+        return []
