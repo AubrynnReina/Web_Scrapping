@@ -5,7 +5,9 @@ def get_movie_items(page):
 
     domain_name = 'animehay.biz'
     url = f'https://{domain_name}/phim-moi-cap-nhap/trang-{page}.html'
-    html_page = requests.get(url)
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36'}
+    
+    html_page = requests.get(url, headers=headers)
     soup = BeautifulSoup(html_page.content, 'html.parser')
     movie_items = soup.find_all('div', class_='movie-item')
 
@@ -14,7 +16,8 @@ def get_movie_items(page):
 def extract_data(movie) -> tuple:
     
     link = movie.select('a:nth-child(2)')[0]['href']
-    response = requests.get(link)
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36'}
+    response = requests.get(link, headers=headers)
     
     if response.status_code != 200:
         return ()
