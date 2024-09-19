@@ -34,9 +34,11 @@ if __name__ == '__main__':
             if len(movie_data) == 0:  # Skip to next movie in case there is no data
                 continue
 
-            total_movie_data.append(convert_to_dict(id=checkpoint_data[0], lastest_ep=checkpoint_data[1], data=movie_data))
+            total_movie_data.append(convert_to_dict(id=checkpoint_data[0], latest_ep=checkpoint_data[1], data=movie_data))
 
         page += 1
+        if page >= 4:
+            break
 
     if len(total_movie_data) != 0:  # Check if there is any movie data. If there is none, don't save data or checkpoint
         save_data(total_movie_data)
