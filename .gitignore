@@ -1,2 +1,5 @@
 # All the data I crawled, some sneak peak is fine
 data/
+
+# And my checkpoint file
+data/checkpoint.pkl
