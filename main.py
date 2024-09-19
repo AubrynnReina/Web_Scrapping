@@ -16,6 +16,9 @@ if __name__ == '__main__':
 
         print(f'Page: {page}')
         movie_items = get_movie_items(page)
+        if len(movie_items) == 0:
+            break
+
         for movie in tqdm(movie_items):
 
             checkpoint_data = get_checkpoint_data(movie)
@@ -31,7 +34,7 @@ if __name__ == '__main__':
             if len(movie_data) == 0:  # Skip to next movie in case there is no data
                 continue
 
-            total_movie_data.append(convert_to_dict(id=checkpoint_data[0], data=movie_data))
+            total_movie_data.append(convert_to_dict(id=checkpoint_data[0], lastest_ep=checkpoint_data[1], data=movie_data))
 
         page += 1
 
