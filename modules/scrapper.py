@@ -7,8 +7,12 @@ def get_movie_items(page):
     url = f'https://{domain_name}/phim-moi-cap-nhap/trang-{page}.html'
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36'}
     
-    html_page = requests.get(url, headers=headers)
-    soup = BeautifulSoup(html_page.content, 'html.parser')
+    response = requests.get(url, headers=headers)
+    
+    if response.status_code != 200:
+        return ()
+    
+    soup = BeautifulSoup(response.content, 'html.parser')
     movie_items = soup.find_all('div', class_='movie-item')
 
     return movie_items
