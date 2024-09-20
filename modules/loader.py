@@ -12,7 +12,7 @@ def save_to_csv(data, filename):
 
     data_df = pd.DataFrame(data=data)
     data_df = data_df.explode('genre')
-    data_df.to_csv(f'./data/csv/{filename}.csv', index=False)
+    data_df.to_csv(f'./data/csv/{filename}.csv', index=False, encoding='utf-8')
 
     return data_df
 

@@ -3,6 +3,7 @@ from modules.scrapper import get_movie_items, extract_data
 from modules.processor import convert_to_dict
 from modules.loader import save_data
 from tqdm import tqdm
+import time
 
 if __name__ == '__main__':
 
@@ -37,8 +38,7 @@ if __name__ == '__main__':
             total_movie_data.append(convert_to_dict(id=checkpoint_data[0], latest_ep=checkpoint_data[1], data=movie_data))
 
         page += 1
-        if page >= 4:
-            break
+        time.sleep(5)
 
     if len(total_movie_data) != 0:  # Check if there is any movie data. If there is none, don't save data or checkpoint
         save_data(total_movie_data)
