@@ -25,7 +25,7 @@ def save_data(data):
 
     from datetime import datetime
 
-    filename = datetime.today().strftime('%Y_%m_%d')
+    filename = datetime.today().strftime('%Y_%m_%d_%H_%M_%S_%f')
 
     save_to_json(data, filename)
     data_df = save_to_csv(data, filename)
