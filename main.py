@@ -17,7 +17,7 @@ if __name__ == '__main__':
 
         print(f'Page: {page}')
         movie_items = get_movie_items(page)
-        if len(movie_items) == 0:
+        if len(movie_items) == 0:  # If the scrapper reached to final/error page, stop it
             break
 
         for movie in tqdm(movie_items):
