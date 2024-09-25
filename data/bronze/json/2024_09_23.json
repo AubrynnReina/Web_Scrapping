@@ -1,0 +1,818 @@
+[
+    {
+        "id": 3056,
+        "latest_ep": "454/480",
+        "name": "\u0110\u1ed9c B\u1ed9 Ti\u00eau Dao",
+        "genre": [
+            "CN Animation",
+            "Ki\u1ebfm hi\u1ec7p",
+            "Huy\u1ec1n \u1ea3o",
+            "Xuy\u00ean kh\u00f4ng",
+            "Tr\u00f9ng sinh"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 7.4,
+        "review": 664,
+        "publish_year": 2020,
+        "duration": "480 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/doc-bo-tieu-dao-3056.html"
+    },
+    {
+        "id": 4103,
+        "latest_ep": "12/??",
+        "name": "Fairy Tail: 100 Years Quest",
+        "genre": [
+            "Anime",
+            "H\u00e0nh \u0111\u1ed9ng",
+            "Gi\u1ea3 t\u01b0\u1edfng",
+            "Phi\u00eau l\u01b0u"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 9.4,
+        "review": 222,
+        "publish_year": 2024,
+        "duration": "?? T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/fairy-tail-100-years-quest-4103.html"
+    },
+    {
+        "id": 4117,
+        "latest_ep": "11/??",
+        "name": "Makeine: Too Many Losing Heroines!",
+        "genre": [
+            "Anime",
+            "T\u00ecnh c\u1ea3m",
+            "H\u1ecdc \u0111\u01b0\u1eddng",
+            "\u0110\u1eddi th\u01b0\u1eddng"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 8.7,
+        "review": 110,
+        "publish_year": 2024,
+        "duration": "?? T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/makeine-too-many-losing-heroines-4117.html"
+    },
+    {
+        "id": 4113,
+        "latest_ep": "11/??",
+        "name": "The Elusive Samurai",
+        "genre": [
+            "Anime",
+            "H\u00e0nh \u0111\u1ed9ng",
+            "L\u1ecbch s\u1eed",
+            "Drama",
+            "Phi\u00eau l\u01b0u",
+            "Samurai"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 8.0,
+        "review": 74,
+        "publish_year": 2024,
+        "duration": "?? T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/the-elusive-samurai-4113.html"
+    },
+    {
+        "id": 4130,
+        "latest_ep": "12/12",
+        "name": "Madougushi Dahliya wa Utsumukanai",
+        "genre": [
+            "Anime",
+            "Gi\u1ea3 t\u01b0\u1edfng",
+            "\u0110\u1eddi th\u01b0\u1eddng",
+            "D\u1ecb gi\u1edbi"
+        ],
+        "status": "Ho\u00e0n th\u00e0nh",
+        "score": 7.2,
+        "review": 33,
+        "publish_year": 2024,
+        "duration": "12 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/madougushi-dahliya-wa-utsumukanai-4130.html"
+    },
+    {
+        "id": 4105,
+        "latest_ep": "12/12",
+        "name": "Plus-Sized Elf",
+        "genre": [
+            "Anime",
+            "T\u00ecnh c\u1ea3m",
+            "Harem",
+            "Si\u00eau nhi\u00ean"
+        ],
+        "status": "Ho\u00e0n th\u00e0nh",
+        "score": 4.0,
+        "review": 56,
+        "publish_year": 2024,
+        "duration": "12 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/plus-sized-elf-4105.html"
+    },
+    {
+        "id": 4108,
+        "latest_ep": "12/??",
+        "name": "VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream",
+        "genre": [
+            "Anime",
+            "H\u00e0i h\u01b0\u1edbc",
+            "T\u00ecnh c\u1ea3m",
+            "Gi\u1ea3 t\u01b0\u1edfng",
+            "\u0110\u1eddi th\u01b0\u1eddng"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 6.7,
+        "review": 49,
+        "publish_year": 2024,
+        "duration": "?? T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/vtuber-legend-how-i-went-viral-after-forgetting-to-turn-off-my-stream-4108.html"
+    },
+    {
+        "id": 4116,
+        "latest_ep": "11/??",
+        "name": "Atri: My Dear Moments",
+        "genre": [
+            "Anime",
+            "T\u00ecnh c\u1ea3m",
+            "Drama"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 7.5,
+        "review": 41,
+        "publish_year": 2024,
+        "duration": "?? T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/atri-my-dear-moments-4116.html"
+    },
+    {
+        "id": 3510,
+        "latest_ep": "4/4",
+        "name": "Strike the Blood V",
+        "genre": [
+            "Anime",
+            "H\u00e0nh \u0111\u1ed9ng",
+            "H\u00e0i h\u01b0\u1edbc",
+            "T\u00ecnh c\u1ea3m",
+            "Harem",
+            "H\u1ecdc \u0111\u01b0\u1eddng",
+            "Si\u00eau nhi\u00ean",
+            "Ma c\u00e0 r\u1ed3ng"
+        ],
+        "status": "Ho\u00e0n th\u00e0nh",
+        "score": 8.5,
+        "review": 125,
+        "publish_year": 2022,
+        "duration": "4 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/strike-the-blood-v-3510.html"
+    },
+    {
+        "id": 3055,
+        "latest_ep": "479/496",
+        "name": "V\u00f5 Th\u1ea7n Ch\u00faa T\u1ec3",
+        "genre": [
+            "CN Animation",
+            "Ti\u00ean hi\u1ec7p",
+            "Xuy\u00ean kh\u00f4ng",
+            "Tr\u00f9ng sinh",
+            "Huy\u1ec1n \u1ea3o"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 8.5,
+        "review": 1121,
+        "publish_year": 2020,
+        "duration": "496 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/vo-than-chua-te-3055.html"
+    },
+    {
+        "id": 3994,
+        "latest_ep": "23/37",
+        "name": "Sengoku Youko",
+        "genre": [
+            "Anime",
+            "H\u00e0nh \u0111\u1ed9ng",
+            "Gi\u1ea3 t\u01b0\u1edfng",
+            "Shounen",
+            "Drama",
+            "Si\u00eau nhi\u00ean",
+            "Phi\u00eau l\u01b0u"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 7.2,
+        "review": 83,
+        "publish_year": 2024,
+        "duration": "37 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/sengoku-youko-3994.html"
+    },
+    {
+        "id": 3723,
+        "latest_ep": "80/182",
+        "name": "Ti\u00ean V\u00f5 Truy\u1ec7n",
+        "genre": [
+            "CN Animation",
+            "Ti\u00ean hi\u1ec7p",
+            "Huy\u1ec1n \u1ea3o"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 8.4,
+        "review": 435,
+        "publish_year": 2023,
+        "duration": "182 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/tien-vo-truyen-3723.html"
+    },
+    {
+        "id": 3879,
+        "latest_ep": "55/76",
+        "name": "Ti\u00ean Ngh\u1ecbch",
+        "genre": [
+            "CN Animation",
+            "Ti\u00ean hi\u1ec7p",
+            "Huy\u1ec1n \u1ea3o"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 9.3,
+        "review": 1233,
+        "publish_year": 2023,
+        "duration": "76 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/tien-nghich-3879.html"
+    },
+    {
+        "id": 4107,
+        "latest_ep": "11/??",
+        "name": "Wistoria: Wand and Sword",
+        "genre": [
+            "Anime",
+            "H\u00e0nh \u0111\u1ed9ng",
+            "H\u1ecdc \u0111\u01b0\u1eddng",
+            "Si\u00eau nhi\u00ean",
+            "Phi\u00eau l\u01b0u"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 8.6,
+        "review": 248,
+        "publish_year": 2024,
+        "duration": "?? T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/wistoria-wand-and-sword-4107.html"
+    },
+    {
+        "id": 34,
+        "latest_ep": "1120/??",
+        "name": "One Piece",
+        "genre": [
+            "Anime",
+            "H\u00e0nh \u0111\u1ed9ng",
+            "H\u00e0i h\u01b0\u1edbc",
+            "Phi\u00eau l\u01b0u",
+            "Shounen",
+            "Drama"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 9.0,
+        "review": 16361,
+        "publish_year": 1999,
+        "duration": "?? T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/one-piece-34.html"
+    },
+    {
+        "id": 4121,
+        "latest_ep": "11/??",
+        "name": "Senpai wa Otokonoko",
+        "genre": [
+            "Anime",
+            "T\u00ecnh c\u1ea3m",
+            "H\u1ecdc \u0111\u01b0\u1eddng"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 5.8,
+        "review": 24,
+        "publish_year": 2024,
+        "duration": "?? T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/senpai-wa-otokonoko-4121.html"
+    },
+    {
+        "id": 4120,
+        "latest_ep": "11/??",
+        "name": "Koi wa Futago de Warikirenai",
+        "genre": [
+            "Anime",
+            "H\u00e0i h\u01b0\u1edbc",
+            "T\u00ecnh c\u1ea3m"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 6.4,
+        "review": 40,
+        "publish_year": 2024,
+        "duration": "?? T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/koi-wa-futago-de-warikirenai-4120.html"
+    },
+    {
+        "id": 4115,
+        "latest_ep": "11/??",
+        "name": "Synonyms: Why Nobody Remembers My World?",
+        "genre": [
+            "Anime",
+            "H\u00e0nh \u0111\u1ed9ng",
+            "Si\u00eau nhi\u00ean",
+            "Phi\u00eau l\u01b0u"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 7.6,
+        "review": 85,
+        "publish_year": 2024,
+        "duration": "?? T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/synonyms-why-nobody-remembers-my-world-4115.html"
+    },
+    {
+        "id": 4101,
+        "latest_ep": "12/??",
+        "name": "Tensui no Sakuna-hime",
+        "genre": [
+            "Anime",
+            "H\u00e0nh \u0111\u1ed9ng",
+            "Si\u00eau nhi\u00ean"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 5.1,
+        "review": 26,
+        "publish_year": 2024,
+        "duration": "?? T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/tensui-no-sakuna-hime-4101.html"
+    },
+    {
+        "id": 3774,
+        "latest_ep": "66/??",
+        "name": "Pok\u00e9mon Horizons: The Series",
+        "genre": [
+            "Anime",
+            "H\u00e0nh \u0111\u1ed9ng",
+            "H\u00e0i h\u01b0\u1edbc",
+            "Phi\u00eau l\u01b0u"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 5.3,
+        "review": 202,
+        "publish_year": 2023,
+        "duration": "?? T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/pokemon-horizons-the-series-3774.html"
+    },
+    {
+        "id": 4138,
+        "latest_ep": "11/??",
+        "name": "Thi\u1ebfu Ni\u00ean B\u1ea1ch M\u00e3 T\u00fay Xu\u00e2n Phong Ph\u1ea7n 2",
+        "genre": [
+            "CN Animation",
+            "Ki\u1ebfm hi\u1ec7p"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": null,
+        "review": 3,
+        "publish_year": 2024,
+        "duration": "?? T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/thieu-nien-bach-ma-tuy-xuan-phong-phan-2-4138.html"
+    },
+    {
+        "id": 4137,
+        "latest_ep": "20/20",
+        "name": "Thi\u1ebfu Ni\u00ean B\u1ea1ch M\u00e3 T\u00fay Xu\u00e2n Phong",
+        "genre": [
+            "CN Animation"
+        ],
+        "status": "Ho\u00e0n th\u00e0nh",
+        "score": null,
+        "review": 2,
+        "publish_year": 2023,
+        "duration": "20 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/thieu-nien-bach-ma-tuy-xuan-phong-4137.html"
+    },
+    {
+        "id": 4094,
+        "latest_ep": "12/??",
+        "name": "Giji Harem",
+        "genre": [
+            "Anime",
+            "H\u1ecdc \u0111\u01b0\u1eddng",
+            "\u0110\u1eddi th\u01b0\u1eddng",
+            "Shounen"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 8.8,
+        "review": 117,
+        "publish_year": 2024,
+        "duration": "?? T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/giji-harem-4094.html"
+    },
+    {
+        "id": 4069,
+        "latest_ep": "18/??",
+        "name": "Boku no Hero Academia 7th Season",
+        "genre": [
+            "Anime",
+            "H\u00e0nh \u0111\u1ed9ng",
+            "H\u1ecdc \u0111\u01b0\u1eddng",
+            "Si\u00eau n\u0103ng l\u1ef1c",
+            "Shounen"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 8.9,
+        "review": 182,
+        "publish_year": 2024,
+        "duration": "?? T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/boku-no-hero-academia-7th-season-4069.html"
+    },
+    {
+        "id": 3518,
+        "latest_ep": "113/157",
+        "name": "\u0110\u1ea5u Ph\u00e1 Th\u01b0\u01a1ng Khung Ph\u1ea7n 5",
+        "genre": [
+            "CN Animation",
+            "Huy\u1ec1n \u1ea3o"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 9.0,
+        "review": 2454,
+        "publish_year": 2022,
+        "duration": "157 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/dau-pha-thuong-khung-phan-5-3518.html"
+    },
+    {
+        "id": 3641,
+        "latest_ep": "95/104",
+        "name": "B\u00e1ch Luy\u1ec7n Th\u00e0nh Th\u1ea7n",
+        "genre": [
+            "CN Animation",
+            "Ki\u1ebfm hi\u1ec7p",
+            "Huy\u1ec1n \u1ea3o",
+            "D\u1ecb gi\u1edbi"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 8.4,
+        "review": 649,
+        "publish_year": 2022,
+        "duration": "104 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/bach-luyen-thanh-than-3641.html"
+    },
+    {
+        "id": 3717,
+        "latest_ep": "168/260",
+        "name": "Luy\u1ec7n Kh\u00ed M\u01b0\u1eddi V\u1ea1n N\u0103m",
+        "genre": [
+            "CN Animation",
+            "Ti\u00ean hi\u1ec7p",
+            "Huy\u1ec1n \u1ea3o"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 8.5,
+        "review": 699,
+        "publish_year": 2023,
+        "duration": "260 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/luyen-khi-muoi-van-nam-3717.html"
+    },
+    {
+        "id": 4100,
+        "latest_ep": "12/24",
+        "name": "2.5-jigen no Ririsa",
+        "genre": [
+            "Anime",
+            "H\u00e0i h\u01b0\u1edbc",
+            "Harem",
+            "H\u1ecdc \u0111\u01b0\u1eddng",
+            "\u0110\u1eddi th\u01b0\u1eddng",
+            "Ecchi"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 8.4,
+        "review": 97,
+        "publish_year": 2024,
+        "duration": "24 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/2-5-jigen-no-ririsa-4100.html"
+    },
+    {
+        "id": 3231,
+        "latest_ep": "271/274",
+        "name": "V\u1ea1n Gi\u1edbi \u0110\u1ed9c T\u00f4n",
+        "genre": [
+            "CN Animation",
+            "Ki\u1ebfm hi\u1ec7p",
+            "Huy\u1ec1n \u1ea3o",
+            "D\u1ecb gi\u1edbi"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 8.1,
+        "review": 552,
+        "publish_year": 2021,
+        "duration": "274 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/van-gioi-doc-ton-3231.html"
+    },
+    {
+        "id": 4125,
+        "latest_ep": "11/24",
+        "name": "Th\u1ea7n V\u00f5 Thi\u00ean T\u00f4n",
+        "genre": [
+            "CN Animation",
+            "Ti\u00ean hi\u1ec7p",
+            "Xuy\u00ean kh\u00f4ng",
+            "Huy\u1ec1n \u1ea3o"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 6.6,
+        "review": 77,
+        "publish_year": 2024,
+        "duration": "24 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/than-vo-thien-ton-4125.html"
+    },
+    {
+        "id": 3078,
+        "latest_ep": "120/124",
+        "name": "Ph\u00e0m Nh\u00e2n Tu Ti\u00ean",
+        "genre": [
+            "CN Animation",
+            "Ti\u00ean hi\u1ec7p",
+            "Huy\u1ec1n \u1ea3o"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 9.4,
+        "review": 1992,
+        "publish_year": 2020,
+        "duration": "124 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/pham-nhan-tu-tien-3078.html"
+    },
+    {
+        "id": 3682,
+        "latest_ep": "23/24",
+        "name": "NieR:Automata Ver1.1a",
+        "genre": [
+            "Anime",
+            "H\u00e0nh \u0111\u1ed9ng",
+            "Gi\u1ea3 t\u01b0\u1edfng",
+            "Vi\u1ec5n t\u01b0\u1edfng"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 8.2,
+        "review": 194,
+        "publish_year": 2023,
+        "duration": "24 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/nier-automata-ver1-1a-3682.html"
+    },
+    {
+        "id": 4092,
+        "latest_ep": "12/??",
+        "name": "Shikanoko Nokonoko Koshitantan",
+        "genre": [
+            "Anime",
+            "H\u00e0i h\u01b0\u1edbc",
+            "H\u1ecdc \u0111\u01b0\u1eddng"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 8.4,
+        "review": 123,
+        "publish_year": 2024,
+        "duration": "?? T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/shikanoko-nokonoko-koshitantan-4092.html"
+    },
+    {
+        "id": 3559,
+        "latest_ep": "24/43",
+        "name": "Th\u1ea7n M\u1ed9",
+        "genre": [
+            "CN Animation",
+            "Ti\u00ean hi\u1ec7p",
+            "Tr\u00f9ng sinh",
+            "Huy\u1ec1n \u1ea3o"
+        ],
+        "status": "Ho\u00e0n th\u00e0nh",
+        "score": 9.2,
+        "review": 547,
+        "publish_year": 2022,
+        "duration": "43 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/than-mo-3559.html"
+    },
+    {
+        "id": 4097,
+        "latest_ep": "12/12",
+        "name": "Tasogare Outfocus",
+        "genre": [
+            "Anime",
+            "H\u1ecdc \u0111\u01b0\u1eddng",
+            "\u0110\u1eddi th\u01b0\u1eddng"
+        ],
+        "status": "Ho\u00e0n th\u00e0nh",
+        "score": 3.3,
+        "review": 121,
+        "publish_year": 2024,
+        "duration": "12 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/tasogare-outfocus-4097.html"
+    },
+    {
+        "id": 4099,
+        "latest_ep": "12/12",
+        "name": "Quality Assurance in Another World",
+        "genre": [
+            "Anime",
+            "H\u00e0nh \u0111\u1ed9ng",
+            "Si\u00eau nhi\u00ean",
+            "Phi\u00eau l\u01b0u",
+            "Vi\u1ec5n t\u01b0\u1edfng"
+        ],
+        "status": "Ho\u00e0n th\u00e0nh",
+        "score": 6.8,
+        "review": 50,
+        "publish_year": 2024,
+        "duration": "12 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/quality-assurance-in-another-world-4099.html"
+    },
+    {
+        "id": 4035,
+        "latest_ep": "23/24",
+        "name": "Tensei shitara Slime Datta Ken 3rd Season",
+        "genre": [
+            "Anime",
+            "H\u00e0nh \u0111\u1ed9ng",
+            "H\u00e0i h\u01b0\u1edbc",
+            "Gi\u1ea3 t\u01b0\u1edfng",
+            "Shounen",
+            "Phi\u00eau l\u01b0u"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 8.9,
+        "review": 464,
+        "publish_year": 2024,
+        "duration": "24 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/tensei-shitara-slime-datta-ken-3rd-season-4035.html"
+    },
+    {
+        "id": 3801,
+        "latest_ep": "67/104",
+        "name": "\u0110\u1ea5u La \u0110\u1ea1i L\u1ee5c 2 Tuy\u1ec7t Th\u1ebf \u0110\u01b0\u1eddng M\u00f4n",
+        "genre": [
+            "CN Animation",
+            "Huy\u1ec1n \u1ea3o",
+            "D\u1ecb gi\u1edbi"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 7.6,
+        "review": 724,
+        "publish_year": 2023,
+        "duration": "104 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/dau-la-dai-luc-2-tuyet-the-duong-mon-3801.html"
+    },
+    {
+        "id": 3051,
+        "latest_ep": "420/464",
+        "name": "V\u00f4 Th\u01b0\u1ee3ng Th\u1ea7n \u0110\u1ebf",
+        "genre": [
+            "CN Animation",
+            "Ti\u00ean hi\u1ec7p",
+            "Tr\u00f9ng sinh",
+            "Huy\u1ec1n \u1ea3o"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 8.0,
+        "review": 749,
+        "publish_year": 2020,
+        "duration": "464 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/vo-thuong-than-de-3051.html"
+    },
+    {
+        "id": 4091,
+        "latest_ep": "12/12",
+        "name": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+        "genre": [
+            "Anime",
+            "H\u00e0i h\u01b0\u1edbc",
+            "T\u00ecnh c\u1ea3m",
+            "H\u1ecdc \u0111\u01b0\u1eddng"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 9.2,
+        "review": 378,
+        "publish_year": 2024,
+        "duration": "12 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-4091.html"
+    },
+    {
+        "id": 3441,
+        "latest_ep": "49/56",
+        "name": "V\u0129nh Sinh",
+        "genre": [
+            "CN Animation",
+            "Ti\u00ean hi\u1ec7p",
+            "Huy\u1ec1n \u1ea3o",
+            "V\u00f5 hi\u1ec7p"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 9.1,
+        "review": 619,
+        "publish_year": 2022,
+        "duration": "56 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/vinh-sinh-3441.html"
+    },
+    {
+        "id": 3300,
+        "latest_ep": "342/380",
+        "name": "Ngh\u1ecbch Thi\u00ean Ch\u00ed T\u00f4n",
+        "genre": [
+            "CN Animation",
+            "Ti\u00ean hi\u1ec7p",
+            "Tr\u00f9ng sinh"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 7.5,
+        "review": 584,
+        "publish_year": 2021,
+        "duration": "380 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/nghich-thien-chi-ton-3300.html"
+    },
+    {
+        "id": 4096,
+        "latest_ep": "11/??",
+        "name": "Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made",
+        "genre": [
+            "Anime",
+            "H\u00e0nh \u0111\u1ed9ng",
+            "Drama",
+            "Si\u00eau nhi\u00ean",
+            "Phi\u00eau l\u01b0u"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 8.2,
+        "review": 217,
+        "publish_year": 2024,
+        "duration": "?? T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/hazure-waku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made-4096.html"
+    },
+    {
+        "id": 4095,
+        "latest_ep": "12/??",
+        "name": "Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
+        "genre": [
+            "Anime",
+            "H\u00e0nh \u0111\u1ed9ng",
+            "Si\u00eau nhi\u00ean",
+            "Phi\u00eau l\u01b0u"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 8.3,
+        "review": 202,
+        "publish_year": 2024,
+        "duration": "?? T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai-4095.html"
+    },
+    {
+        "id": 4093,
+        "latest_ep": "12/12",
+        "name": "Gimai Seikatsu",
+        "genre": [
+            "Anime",
+            "T\u00ecnh c\u1ea3m"
+        ],
+        "status": "Ho\u00e0n th\u00e0nh",
+        "score": 9.0,
+        "review": 179,
+        "publish_year": 2024,
+        "duration": "12 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/gimai-seikatsu-4093.html"
+    },
+    {
+        "id": 3247,
+        "latest_ep": "181/234",
+        "name": "Th\u1ebf Gi\u1edbi Ho\u00e0n M\u1ef9",
+        "genre": [
+            "CN Animation",
+            "Ti\u00ean hi\u1ec7p",
+            "Ki\u1ebfm hi\u1ec7p",
+            "Huy\u1ec1n \u1ea3o"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 9.2,
+        "review": 2525,
+        "publish_year": 2021,
+        "duration": "234 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/the-gioi-hoan-my-3247.html"
+    },
+    {
+        "id": 3506,
+        "latest_ep": "125/156",
+        "name": "Th\u1ea7n \u1ea4n V\u01b0\u01a1ng T\u1ecda",
+        "genre": [
+            "CN Animation",
+            "Huy\u1ec1n \u1ea3o",
+            "D\u1ecb gi\u1edbi"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 8.8,
+        "review": 1591,
+        "publish_year": 2022,
+        "duration": "156 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/than-an-vuong-toa-3506.html"
+    },
+    {
+        "id": 3708,
+        "latest_ep": "55/91",
+        "name": "S\u01b0 Huynh \u00c0 S\u01b0 Huynh",
+        "genre": [
+            "CN Animation",
+            "Ki\u1ebfm hi\u1ec7p",
+            "Huy\u1ec1n \u1ea3o",
+            "[CNA] H\u00e0i h\u01b0\u1edbc"
+        ],
+        "status": "\u0110ang ti\u1ebfn h\u00e0nh",
+        "score": 9.4,
+        "review": 779,
+        "publish_year": 2023,
+        "duration": "91 T\u1eadp",
+        "link": "https://animehay.cam/thong-tin-phim/su-huynh-a-su-huynh-3708.html"
+    }
+]

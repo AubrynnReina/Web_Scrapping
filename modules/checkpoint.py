@@ -9,7 +9,7 @@ def get_checkpoint_data(movie) -> tuple[int, str]:
 def save_checkpoint(checkpoint_set):
 
     import pickle
-    CHECKPOINT_PATH = './data/checkpoint.pkl'
+    CHECKPOINT_PATH = './data/bronze/checkpoint.pkl'
 
     with open(CHECKPOINT_PATH, 'wb') as f:
         pickle.dump(checkpoint_set, f)
@@ -19,7 +19,7 @@ def load_checkpoint() -> set[int, str]:
     
     from pathlib import Path
 
-    CHECKPOINT_PATH = Path('./data/checkpoint.pkl')
+    CHECKPOINT_PATH = Path('./data/bronze/checkpoint.pkl')
     if CHECKPOINT_PATH.exists():
 
         import pickle

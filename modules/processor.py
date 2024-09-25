@@ -13,3 +13,9 @@ def convert_to_dict(id, latest_ep, data) -> dict:
         'link': data[7]
     }
     return result_dict
+
+def clean_data_for_gold(file_name):
+
+    import pandas as pd
+
+    bronze_data = pd.read_csv('')

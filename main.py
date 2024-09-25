@@ -41,5 +41,5 @@ if __name__ == '__main__':
         time.sleep(5)
 
     if len(total_movie_data) != 0:  # Check if there is any movie data. If there is none, don't save data or checkpoint
-        save_data(total_movie_data)
+        save_data(total_movie_data, stage='bronze')
         save_checkpoint(new_checkpoint_data)  # Save this batch as checkpoint for future scrapping batches
